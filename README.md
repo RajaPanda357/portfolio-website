@@ -36,6 +36,7 @@ You can access the live demo of my portfolio website (https://rudra-narayan-pand
 - CSS3
 - JavaScript
 - TailwindCSS
+- bootstrap5
 
 ## Getting Started
 
@@ -43,6 +44,7 @@ To run this website locally, follow these steps:
 
 1. Clone this repository.
 2. Open the `index.html` file in your web browser.
+3. right click and click on "open in live server"
 
 ## Usage
 
@@ -62,3 +64,5 @@ If you'd like to contribute to this project, please follow these guidelines:
 ---
 
 Thank you for visiting my portfolio website! If you have any questions or feedback, please don't hesitate to https://www.linkedin.com/in/rudra-narayan-panda-306b1a19b/.
+
+
